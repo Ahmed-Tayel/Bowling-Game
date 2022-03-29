@@ -1,0 +1,16 @@
+{
+  "name": "bowling-game",
+  "version": "1.0.0",
+  "description": "This program calculates the total score of 10 frames bowling game for one player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ahmed Tayel",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.2.2",
+    "prompt-promise": "^1.0.3"
+  }
+}
