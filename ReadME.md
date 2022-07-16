@@ -4,7 +4,7 @@ The game consists of 10 frames and played by a single user. In each frame the pl
 All the details are well described in the game rules pdf.
 
 ## USER INTERFACE
-The communication will be through terminal <br />The program requests from the user his score for a certain frame and it's corresponding roll
+The communication will be through terminal <br />The program requests from the user his score for a certain frame and it's corresponding roll number
 
 Example (Terminal):
 
